@@ -1,5 +1,6 @@
 # CP-Java-JPA
 Projeto visa aplicar os conhecimentos obtidos sobre conexão TCP, WebSockets e JPA.
+Será feita uma consulta solicitando informações de determinado produto, realizando a busca por ID.
 
 COMO UTILIZAR
 1. Rodar a classe Servidor
